@@ -1,7 +1,5 @@
 from collections import defaultdict
 
-from scrapy import Spider
-
 from pep_parse.utils import save_to_csv
 
 from .settings import BASE_DIR, RESULTS_FOLDER
