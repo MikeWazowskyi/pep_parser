@@ -2,7 +2,7 @@
 
 ## Description
 
-#### Implementation of a simple Scrapy parser for page with Python's PEPs.
+Implementation of a simple Scrapy parser for page with Python's PEPs, which collect number, name and status of every PEP.
 
 ## Instructions for running
 
@@ -16,8 +16,8 @@
 
    ``` python -m venv venv```
 
-   *unix:
-   ``` source venv/Scripts/activate```
+   *unix/MacOS:
+   ``` source venv/bin/activate```
 
    Windows:
    ``` ./venv/Scripts/activate```
@@ -34,4 +34,9 @@
 
 ## Results
 
-Parsing results are available in results/ directory
+Parsing results are available in results/ directory:
+* pep_<datetime>.csv contains information about PEP's number, name and status.
+* status_summary_<datetime>.csv contains summary information about PEPs status.
+
+## About Author:
+https://github.com/MikeWazowskyi
