@@ -8,9 +8,9 @@ Implementation of a simple Scrapy parser for page with Python's PEPs, which coll
 
 1. Clone the repository and navigate to it in the command line::
 
-   ``` git clone https://github.com/MikeWazowskyi/scrapy_parser_pep```
+   ``` git clone https://github.com/MikeWazowskyi/pep_parcer```
 
-   ``` cd scrapy_parser_pep```
+   ``` cd pep_parcer```
 
 2. Create and activate a virtual environment:
 
