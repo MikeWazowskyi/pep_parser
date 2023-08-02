@@ -1,4 +1,4 @@
-# Scrapy PEP parser
+# PEP parser
 
 ## Description
 
