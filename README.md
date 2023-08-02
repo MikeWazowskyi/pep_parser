@@ -28,7 +28,7 @@ Implementation of a simple Scrapy parser for page with Python's PEPs, which coll
 
    ``` python -m pip install -r requirements.txt```
 
-4. Run application on dev server:
+4. Run parser:
 
    ``` scrapy crawl pep```
 
