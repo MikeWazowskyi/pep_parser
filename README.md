@@ -1,5 +1,7 @@
 # PEP parser
 
+[![Scrapy CI](https://github.com/MikeWazowskyi/pep_parser/actions/workflows/scrapy_ci.yml/badge.svg)](https://github.com/MikeWazowskyi/pep_parser/actions/workflows/scrapy_ci.yml)
+
 ## Description
 
 Implementation of a simple Scrapy parser for page with Python's PEPs, which collect number, name and status of every PEP.
